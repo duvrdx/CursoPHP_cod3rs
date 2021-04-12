@@ -56,7 +56,17 @@
                         <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">
                         Desafio Equação</a></li>     
                         <li><a href="exercicio.php?dir=variaveis&file=atribuicao">
-                        Atribuição</a></li>        
+                        Atribuição</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=interpolacao">
+                        Interpolação</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">
+                        Variáveis Variáveis</a></li>     
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis_variaveis">
+                        Desafio VV</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">
+                        Valor x Referência</a></li>   
+                        <li><a href="exercicio.php?dir=variaveis&file=constantes">
+                        Constantes</a></li> 
                     </ul>
                 </div>
 
