@@ -11,7 +11,7 @@
 
 <h2> Minhas redes sociais <h2> <hr>
 
-<li> <a href="https://twitter.com/duvrdx"> Twitter </a> </li>
-<li> <a href="https://www.instagram.com/duvrdx/"> Instagram </a> </li>
-<li> <a href="https://www.behance.net/eduardoprsper"> Behance </a> </li>
+<h4> <li> <a href="https://twitter.com/duvrdx"> Twitter </a> </li> </h4>
+<h4> <li> <a href="https://www.instagram.com/duvrdx/"> Instagram </a> </li> </h4>
+<h4> <li> <a href="https://www.behance.net/eduardoprsper"> Behance </a> </li> </h4>
 
