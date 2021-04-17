@@ -25,7 +25,17 @@
                         Op. Relacionais</a></li>
                         <li><a href="exercicio.php?dir=controle&file=desafio_pi">
                         Desafio Pi</a></li>
-                    </ul>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_logicos">
+                        Operadoes Lógicos</a></li>
+                       <li><a href="exercicio.php?dir=controle&file=desafio_ol">
+                        Desafio Op. Lógicos</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operador_ternario">
+                        Operador Ternário </a></li>
+                        <li><a href="exercicio.php?dir=controle&file=switch">
+                        Switch </a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_switch">
+                        Desafio Switch </a></li>
+                        
                 </div>
 
                 <div class="modulo azul">
@@ -46,7 +56,8 @@
                         <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">
                         Valor x Referência</a></li>   
                         <li><a href="exercicio.php?dir=variaveis&file=constantes">
-                        Constantes</a></li> 
+                        Constantes</a></li>
+                        
                     </ul>
                 </div>
 

@@ -3,6 +3,7 @@
     box-sizing: border-box;
 }
 
+
 body {
     height: 100vh;
     margin: 0px;
@@ -139,3 +140,11 @@ body {
 
 /* Classes Utilitáris */
 
+.divisao {
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+hr{
+    margin-top: 0;
+}
