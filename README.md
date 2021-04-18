@@ -9,8 +9,9 @@
 
 
 
+<div>
 <h2> Minhas redes sociais <h2> 
 <h3> <li> <a href="https://twitter.com/duvrdx"> Twitter </a> </li> </h3>
 <h3> <li> <a href="https://www.instagram.com/duvrdx/"> Instagram </a> </li> </h3>
 <h3> <li> <a href="https://www.behance.net/eduardoprsper"> Behance </a> </li> </h3>
-
+</div>
