@@ -6,8 +6,7 @@
 
 <h2> Screenshots do Curso <h2>
  
- <div style="display: inline-block">
-    <img src="" alt="">
+ <div style="display: inline-block; width: 90%;">
     <img src="" alt="">
     <img src="" alt="">
  </div>
