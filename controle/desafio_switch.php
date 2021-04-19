@@ -7,6 +7,8 @@
         <option value="milha_km">Milha > Km</option>
         <option value="metro_km">Metros > Km</option>
         <option value="km_metro">Km > Metro</option>
+        <option value="f_c">Fahrenheit > Celsius</option>
+        <option value="c_f">Celsius > Fahrenheit</option>
     </select> 
 
     <button>Calcular</button>
@@ -23,20 +25,36 @@ $valorInput = $_POST['param'];
 $conversao = $_POST['conversao'];
 define('FORMULA_KM_MILHA', 1.609); 
 define('FORMULA_METROS_KM', 1000);
- 
+
 if(isset($_POST['param']) and isset($_POST['conversao'])){
     switch($conversao){
-        case 'km-milha':
+
+        case 'km_milha':
             $resultado = $valorInput / FORMULA_KM_MILHA;
         break;
-        case 'milha-km':
+
+        case 'milha_km':
             $resultado = $valorInput * FORMULA_KM_MILHA;
         break;
-        case 'metro-km':
+
+        case 'metro_km':
             $resultado = $valorInput / FORMULA_METROS_KM;
         break;
-        default:
+
+        case 'km_metros':
             $resultado = $valorInput * FORMULA_METROS_KM;
+        break;
+
+        case 'f_c':
+            $resultado = ($valorInput - 32) * 5/9;
+        break;
+        
+        case 'c_f':
+            $resultado = ($valorInput * 9/5) + 32;
+        break;
+        
+        
+
     }
     echo "Resultado da conversão: $resultado";
 };
