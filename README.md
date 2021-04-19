@@ -7,8 +7,8 @@
 <h2> Screenshots do Curso <h2>
  
  <div style="display: inline-block; width: 90%;">
-    <img src="" alt="">
-    <img src="" alt="">
+    <img src="screenshots/ide.png" alt="IDE">
+    <img src="screenshots/index.png" alt="Página Index">
  </div>
 
 
