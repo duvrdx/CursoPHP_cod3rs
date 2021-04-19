@@ -4,14 +4,25 @@
 <li> Este repositório contém os exercícios feitos no curso de PHP (Em andamento) </li>
 <li> <a href="https://www.udemy.com/course/php-7-completo">Link do curso</a> </li>
 
+<h2> Screenshots do Curso <h2>
+ 
+ <div style="display: inline-block">
+    <img src="" alt="">
+    <img src="" alt="">
+    <img src="" alt="">
+ </div>
+
+
 <h3> <strong> Módulo atual: </strong> </h3>
-<h4> Estruturas de Controle | Aula 80 </h4>
+<h4> Arrays | Aula 84 </h4>
 
 
 
 <div>
 <h2> Minhas redes sociais <h2> 
-<li> <a href="https://twitter.com/duvrdx"> Twitter </a> </li>
-<li> <a href="https://www.instagram.com/duvrdx/"> Instagram </a> </li>
-<li> <a href="https://www.behance.net/eduardoprsper"> Behance </a> </li>
+
+[![Twitter Badge](https://img.shields.io/badge/-@duvrdx-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/duvrdx)](https://twitter.com/duvrdx) 
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Henrique-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-henrique-próspero-souza-478298203/)](https://www.linkedin.com/in/eduardo-henrique-próspero-souza-478298203/) 
+[![Gmail Badge](https://img.shields.io/badge/-duvrdx@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duvrdx@gmail.com)](mailto:duvrdx@gmail.com)
+
 </div>
