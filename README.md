@@ -7,10 +7,8 @@
 <h2> Screenshots do Curso <h2>
  
  <div style="display: inline-block; width: 90%;">
-    <img src="screenshots/preloader.gif" alt="Página de Preloader">
+    <img src="screenshots/ide.png" alt="IDE">
     <img src="screenshots/index.png" alt="Página Index">
-    <img src="screenshots/botao.png" alt="Botão de Contato Pressionado">
-    <img src="screenshots/visao.gif" alt="Visão Geral do Site">
  </div>
 
 
